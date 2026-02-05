@@ -6,7 +6,7 @@ URL: https://github.com/AmbikaPatel11/The-Meta-Script-Generator.git
 Ambika Patel - apate339@charlotte.edu - 801495232
 
 ### Project Description:  
-Using the scaffold.py file, you can output a ready-to-code python template.  
+Using the scaffold.py file, you can output a ready-to-code python template. See example_output file for an example. 
 
 ### Project License
 GNU General Public License v.3 -- A copyleft license ensuring the code remains free and open.
